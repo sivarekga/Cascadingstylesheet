@@ -1,0 +1,15 @@
+.line1{
+    color: brown;font-style: italic ;
+}
+#line2{
+    color: aqua;font-family: 'Courier New', Courier, monospace;
+}
+.line1,#line2{ font-size: larger;
+
+}
+body{
+    background-color: rgb(231, 231, 56);
+}
+.type{
+    background-color: blueviolet;
+}
